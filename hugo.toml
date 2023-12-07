@@ -1,4 +1,4 @@
-baseURL = 'atharvojha.com'
+baseURL = 'http://atharvojha.com'
 languageCode = 'en-us'
 title = 'Atharv Ojha'
 theme = "paper"
