@@ -1,0 +1,48 @@
+baseURL = 'atharvojha.com'
+languageCode = 'en-us'
+title = 'Atharv Ojha'
+theme = "paper"
+disqusShortname = 'atharv'   # use disqus comments
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'atharv_ojha_'               # twitter.com/YOUR_TWITTER_ID
+  github = 'atharvojha'                 # github.com/YOUR_GITHUB_ID
+  instagram = 'xthxrv_'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'atharvojha'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  rss = false                                # show rss icon
+
+  # home page profile
+avatar = 'atharvoza@gmail.com'                 # gravatar email or image url
+name = 'Atharv Ojha'
+bio = 'See the world through my eyes'
+
+
+  # misc
+  disableHLJS = false                        # disable highlight.js
+  disablePostNavigation = false              # disable post navigation
+  monoDarkIcon = false                       # show monochrome dark mode icon
+  
+  graphCommentId = "Atharv Ojha"  # use graph comment (disqus alternative)
+  math = true                               # enable KaTeX math typesetting globally
+  
+  [menu]
+
+  [[menu.main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+  [[menu.main]]
+  name = "Blog"
+  url = ""
+  weight = 2
+
+  [[menu.main]]
+  name = "Honours"
+  url = "https://www.linkedin.com/in/atharvojha/details/honors/"
+  weight = 3
+
