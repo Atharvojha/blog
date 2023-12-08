@@ -4,7 +4,7 @@ date = 2023-12-05T23:27:28+05:30
 draft = false
 +++
 
-2023 has been one of the few years in recent when i couldn't watch a lot of movie content. The primary reason being lack of interest in this form of entertainment in general and work stuffs. But here are my top 3 movies of 2023:
+2023 has been one of the few years recently when i couldn't watch a lot of movie content. The primary reason being lack of interest in this form of entertainment in general and work stuffs. But here are my top 3 movies of 2023:
 
 ## "Oppenheimer" - A Visual and Emotional Explosion
 
