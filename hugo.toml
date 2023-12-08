@@ -33,12 +33,12 @@ bio = 'See the world through my eyes'
 
   [[menu.main]]
   name = "Home"
-  url = ""
+  url = "/content"
   weight = 1
 
   [[menu.main]]
   name = "Blog"
-  url = ""
+  url = "/content/blog"
   weight = 2
 
   [[menu.main]]
