@@ -33,7 +33,7 @@ bio = 'See the world through my eyes'
 
   [[menu.main]]
   name = "Home"
-  url = ""
+  url = "atharv-ojha-blogs.netlify.app"
   weight = 1
 
   [[menu.main]]
