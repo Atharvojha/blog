@@ -4,9 +4,38 @@ date = 2023-10-21T23:01:44+05:30
 draft = false
 +++
 
-## The Power of Renewal: A Reflection on Rilke's Poem
+# RENEWAL FROM THE FALL
 
-Rainer Maria Rilke's poem "Renewal from the Fall" is a beautiful and powerful meditation on the importance of transformation and renewal. The poem speaks to the truth that in order to create something new, we must first destroy the old. This can be a painful process, but it is ultimately necessary for growth.
+Without grinding wheat there can be no bread
+
+No alchemy can turn gold into lead
+
+The surgeon has to use the knife and score
+
+The skin in order to affect a cure
+
+To make a coat the tailor cuts the cloth 
+
+A sheep to slaughter makes the festive broth
+
+The builder has to dig the ruins to build
+
+Anything new. The garden’s only filled
+
+With roses when the gardener digs the weeds
+
+And turns the soil to plant the New Year’s seeds
+
+And so my friend, to be remade and whole
+
+Prepare to desecrate your very soul.
+
+
+
+
+## The Power of Renewal
+
+"Renewal from the Fall" is a beautiful and powerful meditation on the importance of transformation and renewal. The poem speaks to the truth that in order to create something new, we must first destroy the old. This can be a painful process, but it is ultimately necessary for growth.
 
 **The Importance of Transformation**
 
@@ -18,12 +47,12 @@ The poem then goes on to explore the different ways in which transformation can 
 
 **Embracing Renewal**
 
-The poem concludes with a powerful message: "And so my friend, to be remade and whole, Prepare to consecrate your very soul." Rilke is telling us that in order to experience true renewal, we must be willing to let go of the old and embrace the new. We must be willing to surrender our old ways of thinking and being in order to create a new life for ourselves.
+The poem concludes with a powerful message: "And so my friend, to be remade and whole, Prepare to consecrate your very soul." Poet is telling us that in order to experience true renewal, we must be willing to let go of the old and embrace the new. We must be willing to surrender our old ways of thinking and being in order to create a new life for ourselves.
 
 
 **Renewing Your Own Life**
 
-Rilke's poem is a reminder that renewal is always possible. No matter how difficult our lives may seem, we have the power to create a new beginning for ourselves. All we need to do is let go of the past and embrace the future.
+The poem is a reminder that renewal is always possible. No matter how difficult our lives may seem, we have the power to create a new beginning for ourselves. All we need to do is let go of the past and embrace the future.
 
 **Here are a few tips on how to experience renewal in your own life:**
 
@@ -35,6 +64,6 @@ Rilke's poem is a reminder that renewal is always possible. No matter how diffic
 
 **Conclusion**
 
-Rilke's poem "Renewal from the Fall" is a powerful reminder that we all have the power to create a new beginning for ourselves. No matter how difficult our lives may seem, we have the ability to transform ourselves and create a better future.
+"Renewal from the Fall" is a powerful reminder that we all have the power to create a new beginning for ourselves. No matter how difficult our lives may seem, we have the ability to transform ourselves and create a better future.
 
 If you are feeling stuck in a rut or if you are looking for a new beginning, take some time to reflect on your life and identify areas for change. Make a plan and start taking action today. Renewal is a process, but it is possible with time, effort, and patience.
