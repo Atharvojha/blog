@@ -26,4 +26,4 @@ Read more about "Three of Us" at [Wikipedia](https://en.wikipedia.org/wiki/Three
 
 ---
 
-Watching these movies was more than just an escape; it was an experience that stayed with us long after the credits rolled. The actors brought their characters to life in a way that felt incredibly real. Their performances didn't just tell stories—they made us live them. From the raw, complex portrayal by Cillian Murphy to the deeply emotional journey that Jaideep Ahlawat took us on, this year's films were a testament to the power of acting and storytelling.
+Watching these movies was more than just an escape; it was an experience that stayed with me long after the credits rolled. The actors brought their characters to life in a way that felt incredibly real. Their performances didn't just tell stories—they made us live them. From the raw, complex portrayal by Cillian Murphy to the deeply emotional journey that Jaideep Ahlawat took us on, this year's films were a testament to the power of acting and storytelling.
