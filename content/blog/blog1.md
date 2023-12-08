@@ -4,8 +4,6 @@ date = 2023-10-21T23:01:44+05:30
 draft = false
 +++
 
-# RENEWAL FROM THE FALL
-
 Without grinding wheat there can be no bread
 
 No alchemy can turn gold into lead
